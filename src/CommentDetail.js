@@ -2,7 +2,7 @@ import React from 'react';
 
 const CommentDetail = (test) => {
 
-    console.log(test);
+
     return (
         <div className="comment">
             <a href="/" className="avatar">
